@@ -79,4 +79,4 @@ npx expo start
 
 **Võ Văn Thành Đạt** — [github.com/Thanhdat0212](https://github.com/Thanhdat0212)
 
-> Chuỗi dự án mobile: [rn-taskly](https://github.com/Thanhdat0212/rn-taskly) (nền tảng RN) · [rn-mini-shop](https://github.com/Thanhdat0212/rn-mini-shop) (REST API + JWT) · **bee-courses-mobile** (client cho backend tự xây)
+> Chuỗi dự án mobile: [RN_Taskly](https://github.com/Thanhdat0212/RN_Taskly) (nền tảng RN) · [RN_MiniShop](https://github.com/Thanhdat0212/RN_MiniShop) (REST API + JWT) · **BeeCoursesMobile** (client cho backend tự xây)
